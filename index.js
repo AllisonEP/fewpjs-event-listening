@@ -1,2 +1,2 @@
-function addingEventListener() {
+function addingEventListener() { alert('I was clicked!')
 }
